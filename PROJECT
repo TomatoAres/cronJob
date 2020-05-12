@@ -1,0 +1,3 @@
+domain: tutorial.kubebuilder.io
+repo: cronJob
+version: "2"
