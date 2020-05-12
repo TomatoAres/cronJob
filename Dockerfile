@@ -3,6 +3,6 @@ MAINTAINER "TomatoAres <cshuaijie@163.com>"
 
 WORKDIR /
 
-COPY bin/controller /controller
+COPY bin/manager /manager
 
 ENTRYPOINT ["/controller"]
